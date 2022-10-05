@@ -4,7 +4,7 @@
 
 ## Setup
 * Install into resources/[QBCore]
-* Add /[qb-vape\images] In Your Inventory Script 
+* Add /[qb-vape\image] In Your Inventory Script 
 * Add :
 ```
 ['vape']              = {['name'] = 'vape',                 ['label'] = 'Vape',                 ['weight'] = 500,         ['type'] = 'item',         ['image'] = 'vape.png',         ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,       ['combinable'] = nil,   ['description'] = 'Blow clouds'},
